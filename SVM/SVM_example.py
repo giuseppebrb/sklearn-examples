@@ -8,7 +8,6 @@ iris_dataset = datasets.load_iris()
 X = iris_dataset.data
 y = iris_dataset.target
 classes = ['setosa', 'versicolor', 'virginica']
-print(iris_dataset)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
