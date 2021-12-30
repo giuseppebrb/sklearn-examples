@@ -1,4 +1,4 @@
-# sklearns-tutorials
+# Scikit-learn examples
 
 Tutorials based on this course from freeCodeCamp https://www.youtube.com/watch?v=pqNCD_5r0IU.
 
